@@ -4,4 +4,4 @@
 Código e slides do encontro onde falamos sobre Vuejs e criamos um buscador de GIFs.
 
 ## Palestrante(s)
-@luizantoniojr
+[Luiz Antônio](https://github.com/luizantoniojr)
